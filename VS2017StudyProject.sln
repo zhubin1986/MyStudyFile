@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyMVC", "MyMVC\MyMVC.csproj", "{32840649-11F6-486C-913D-C28D9051897D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyMod", "StudyMod\StudyMod.csproj", "{79F83338-0B9D-42DF-9BE2-25989CEEB80A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudyMod", "StudyMod\StudyMod.csproj", "{79F83338-0B9D-42DF-9BE2-25989CEEB80A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingConversion", "CodingConversion\CodingConversion.csproj", "{C9321954-5B40-46C5-B3D4-F5A418CC794F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{79F83338-0B9D-42DF-9BE2-25989CEEB80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79F83338-0B9D-42DF-9BE2-25989CEEB80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79F83338-0B9D-42DF-9BE2-25989CEEB80A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9321954-5B40-46C5-B3D4-F5A418CC794F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9321954-5B40-46C5-B3D4-F5A418CC794F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9321954-5B40-46C5-B3D4-F5A418CC794F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9321954-5B40-46C5-B3D4-F5A418CC794F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
